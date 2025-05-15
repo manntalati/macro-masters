@@ -1,0 +1,13 @@
+target/
+*.class
+*.log
+
+images/
+
+node_modules/
+android/build/
+ios/build/
+
+data/
+
+.DS_Store
